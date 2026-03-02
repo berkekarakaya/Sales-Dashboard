@@ -1,0 +1,19 @@
+Urun_ID,Barkod,Urun_Adi,Seri,Hacim_cl,Hacim_L,Urun_Tipi,Satis_Agirligi
+1001,869154878,Beylerbeyi Göbek 20cl,Göbek,20,0.2,Standart,0.09
+1002,869380827,Beylerbeyi Göbek 35cl,Göbek,35,0.35,Standart,0.09
+1003,869295246,Beylerbeyi Göbek 50cl,Göbek,50,0.5,Standart,0.09
+1004,869348596,Beylerbeyi Göbek 70cl,Göbek,70,0.7,Standart,0.09
+1005,869211139,Beylerbeyi Göbek 100cl,Göbek,100,1.0,Standart,0.09
+1006,869697616,Beylerbeyi Mavi Seri 20cl,Mavi Seri,20,0.2,Standart,0.06
+1007,869490408,Beylerbeyi Mavi Seri 35cl,Mavi Seri,35,0.35,Standart,0.06
+1008,869685787,Beylerbeyi Mavi Seri 50cl,Mavi Seri,50,0.5,Standart,0.06
+1009,869284635,Beylerbeyi Mavi Seri 70cl,Mavi Seri,70,0.7,Standart,0.06
+1010,869259196,Beylerbeyi Mavi Seri 100cl,Mavi Seri,100,1.0,Standart,0.06
+1011,869840953,Beylerbeyi Teruar 70cl,Teruar,70,0.7,Standart,0.05
+1012,869181507,Beylerbeyi Razaki 70cl,Razaki,70,0.7,Standart,0.05
+1013,869726098,Beylerbeyi Kalecik Karası 70cl,Kalecik Karası,70,0.7,Standart,0.05
+1014,869786714,Beylerbeyi Yaş Üzüm 35cl,Yaş Üzüm,35,0.35,Standart,0.016666666666666666
+1015,869485659,Beylerbeyi Yaş Üzüm 70cl,Yaş Üzüm,70,0.7,Standart,0.016666666666666666
+1016,869791126,Beylerbeyi Yaş Üzüm 100cl,Yaş Üzüm,100,1.0,Standart,0.016666666666666666
+1017,869728082,Beylerbeyi İncir 70cl,İncir,70,0.7,Standart,0.03
+1018,869582195,Beylerbeyi Kampanya Paketi (2 Bardak Hediye) 70cl,Kampanya Paketi (2 Bardak Hediye),70,0.7,Promosyon,0.02

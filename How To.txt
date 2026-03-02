@@ -1,0 +1,2 @@
+These datas are made by AI.
+To import data, run the "data.py" code on python.
