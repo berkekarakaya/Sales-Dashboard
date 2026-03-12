@@ -1,0 +1,151 @@
+Nokta_ID,Nokta_Adi,Kanal,Zincir_Adi,Sehir_ID,Son_Alim_Tarihi
+5001,Nokta 1 (Tekel Bayi),Tekel Bayi,Bağımsız,14,2026-03-10
+5002,Nokta 2 (Tekel Bayi),Tekel Bayi,Bağımsız,17,2025-12-31
+5003,Nokta 3 (Horeca (Otel)),Horeca (Otel),Bağımsız,12,2026-03-07
+5004,Nokta 4 (Tekel Bayi),Tekel Bayi,Bağımsız,4,2026-03-07
+5005,Nokta 5 (Horeca (Otel)),Horeca (Otel),Bağımsız,8,2026-03-11
+5006,Nokta 6 (Tekel Bayi),Tekel Bayi,Bağımsız,7,2025-12-03
+5007,Nokta 7 (Horeca (Otel)),Horeca (Otel),Bağımsız,17,2026-03-09
+5008,Nokta 8 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,17,2026-03-08
+5009,Nokta 9 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,6,2026-03-09
+5010,Metro - Bayi 10,Zincir Market,Metro,12,2026-03-11
+5011,Nokta 11 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,9,2026-03-08
+5012,Nokta 12 (Horeca (Otel)),Horeca (Otel),Bağımsız,14,2026-01-11
+5013,Migros - Bayi 13,Zincir Market,Migros,11,2026-02-13
+5014,Nokta 14 (Horeca (Otel)),Horeca (Otel),Bağımsız,3,2026-03-10
+5015,Nokta 15 (Tekel Bayi),Tekel Bayi,Bağımsız,3,2026-03-09
+5016,Nokta 16 (Horeca (Otel)),Horeca (Otel),Bağımsız,8,2026-03-09
+5017,Nokta 17 (Horeca (Otel)),Horeca (Otel),Bağımsız,6,2025-11-29
+5018,Nokta 18 (Horeca (Otel)),Horeca (Otel),Bağımsız,7,2025-10-17
+5019,Nokta 19 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,14,2026-03-09
+5020,Nokta 20 (Tekel Bayi),Tekel Bayi,Bağımsız,11,2025-11-25
+5021,Nokta 21 (Tekel Bayi),Tekel Bayi,Bağımsız,13,2026-03-08
+5022,Nokta 22 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,10,2026-02-14
+5023,Nokta 23 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,17,2026-01-15
+5024,Nokta 24 (Tekel Bayi),Tekel Bayi,Bağımsız,15,2026-03-10
+5025,Nokta 25 (Horeca (Otel)),Horeca (Otel),Bağımsız,4,2026-02-07
+5026,A101 - Bayi 26,Zincir Market,A101,6,2026-03-07
+5027,Nokta 27 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,7,2025-11-02
+5028,Nokta 28 (Horeca (Otel)),Horeca (Otel),Bağımsız,3,2026-03-08
+5029,Nokta 29 (Horeca (Otel)),Horeca (Otel),Bağımsız,1,2026-01-17
+5030,Nokta 30 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,15,2026-03-10
+5031,A101 - Bayi 31,Zincir Market,A101,5,2025-12-22
+5032,Migros - Bayi 32,Zincir Market,Migros,15,2025-11-10
+5033,Migros - Bayi 33,Zincir Market,Migros,5,2026-01-10
+5034,Metro - Bayi 34,Zincir Market,Metro,11,2026-03-11
+5035,CarrefourSA - Bayi 35,Zincir Market,CarrefourSA,17,2026-03-11
+5036,Metro - Bayi 36,Zincir Market,Metro,5,2026-03-10
+5037,A101 - Bayi 37,Zincir Market,A101,1,2026-03-07
+5038,A101 - Bayi 38,Zincir Market,A101,2,2026-03-07
+5039,Nokta 39 (Horeca (Otel)),Horeca (Otel),Bağımsız,7,2026-03-10
+5040,Nokta 40 (Horeca (Otel)),Horeca (Otel),Bağımsız,13,2026-03-09
+5041,Nokta 41 (Tekel Bayi),Tekel Bayi,Bağımsız,15,2025-11-16
+5042,Nokta 42 (Tekel Bayi),Tekel Bayi,Bağımsız,2,2025-10-25
+5043,Nokta 43 (Tekel Bayi),Tekel Bayi,Bağımsız,13,2026-03-07
+5044,Nokta 44 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,17,2025-12-19
+5045,Nokta 45 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,3,2026-03-10
+5046,Nokta 46 (Horeca (Otel)),Horeca (Otel),Bağımsız,2,2026-03-07
+5047,Nokta 47 (Horeca (Otel)),Horeca (Otel),Bağımsız,17,2026-03-09
+5048,Nokta 48 (Horeca (Otel)),Horeca (Otel),Bağımsız,7,2026-03-10
+5049,Nokta 49 (Tekel Bayi),Tekel Bayi,Bağımsız,16,2026-03-11
+5050,Nokta 50 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,5,2026-03-10
+5051,Nokta 51 (Horeca (Otel)),Horeca (Otel),Bağımsız,12,2026-02-01
+5052,Nokta 52 (Horeca (Otel)),Horeca (Otel),Bağımsız,15,2026-03-08
+5053,Nokta 53 (Horeca (Otel)),Horeca (Otel),Bağımsız,1,2026-03-11
+5054,Nokta 54 (Horeca (Otel)),Horeca (Otel),Bağımsız,10,2026-03-07
+5055,Nokta 55 (Horeca (Otel)),Horeca (Otel),Bağımsız,4,2026-03-09
+5056,Nokta 56 (Horeca (Otel)),Horeca (Otel),Bağımsız,4,2026-03-11
+5057,A101 - Bayi 57,Zincir Market,A101,9,2025-12-13
+5058,Nokta 58 (Horeca (Otel)),Horeca (Otel),Bağımsız,13,2026-03-07
+5059,Migros - Bayi 59,Zincir Market,Migros,14,2026-03-09
+5060,Nokta 60 (Horeca (Otel)),Horeca (Otel),Bağımsız,9,2026-03-10
+5061,Metro - Bayi 61,Zincir Market,Metro,12,2025-11-26
+5062,Nokta 62 (Horeca (Otel)),Horeca (Otel),Bağımsız,17,2026-03-09
+5063,Nokta 63 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,12,2025-12-11
+5064,Nokta 64 (Tekel Bayi),Tekel Bayi,Bağımsız,15,2026-03-09
+5065,Nokta 65 (Horeca (Otel)),Horeca (Otel),Bağımsız,10,2026-03-11
+5066,Nokta 66 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,8,2026-03-08
+5067,Nokta 67 (Tekel Bayi),Tekel Bayi,Bağımsız,17,2026-03-09
+5068,Nokta 68 (Horeca (Otel)),Horeca (Otel),Bağımsız,1,2026-03-09
+5069,Nokta 69 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,16,2026-03-08
+5070,Nokta 70 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,15,2026-03-10
+5071,A101 - Bayi 71,Zincir Market,A101,7,2026-03-09
+5072,Nokta 72 (Tekel Bayi),Tekel Bayi,Bağımsız,12,2026-03-07
+5073,Nokta 73 (Horeca (Otel)),Horeca (Otel),Bağımsız,7,2025-12-18
+5074,Nokta 74 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,4,2026-03-08
+5075,Nokta 75 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,5,2026-02-13
+5076,Macrocenter - Bayi 76,Zincir Market,Macrocenter,16,2026-03-09
+5077,Nokta 77 (Tekel Bayi),Tekel Bayi,Bağımsız,8,2026-03-09
+5078,Nokta 78 (Horeca (Otel)),Horeca (Otel),Bağımsız,9,2026-03-11
+5079,CarrefourSA - Bayi 79,Zincir Market,CarrefourSA,14,2025-11-01
+5080,Nokta 80 (Horeca (Otel)),Horeca (Otel),Bağımsız,10,2026-03-10
+5081,Macrocenter - Bayi 81,Zincir Market,Macrocenter,14,2026-03-11
+5082,Nokta 82 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,2,2026-03-10
+5083,Nokta 83 (Tekel Bayi),Tekel Bayi,Bağımsız,11,2026-03-10
+5084,Nokta 84 (Tekel Bayi),Tekel Bayi,Bağımsız,15,2025-12-09
+5085,Nokta 85 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,4,2025-11-20
+5086,CarrefourSA - Bayi 86,Zincir Market,CarrefourSA,14,2026-02-23
+5087,Nokta 87 (Horeca (Otel)),Horeca (Otel),Bağımsız,12,2026-03-08
+5088,Nokta 88 (Horeca (Otel)),Horeca (Otel),Bağımsız,4,2025-12-25
+5089,Migros - Bayi 89,Zincir Market,Migros,3,2026-03-10
+5090,Metro - Bayi 90,Zincir Market,Metro,11,2026-03-08
+5091,Macrocenter - Bayi 91,Zincir Market,Macrocenter,1,2026-03-07
+5092,Nokta 92 (Tekel Bayi),Tekel Bayi,Bağımsız,13,2026-03-08
+5093,Nokta 93 (Tekel Bayi),Tekel Bayi,Bağımsız,1,2026-03-07
+5094,Nokta 94 (Tekel Bayi),Tekel Bayi,Bağımsız,8,2026-03-10
+5095,CarrefourSA - Bayi 95,Zincir Market,CarrefourSA,14,2025-10-30
+5096,Nokta 96 (Horeca (Otel)),Horeca (Otel),Bağımsız,8,2026-03-09
+5097,Nokta 97 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,16,2026-02-07
+5098,Metro - Bayi 98,Zincir Market,Metro,14,2026-03-08
+5099,Nokta 99 (Horeca (Otel)),Horeca (Otel),Bağımsız,9,2026-03-08
+5100,Metro - Bayi 100,Zincir Market,Metro,12,2026-03-10
+5101,CarrefourSA - Bayi 101,Zincir Market,CarrefourSA,15,2026-03-10
+5102,Macrocenter - Bayi 102,Zincir Market,Macrocenter,7,2026-03-09
+5103,Nokta 103 (Tekel Bayi),Tekel Bayi,Bağımsız,5,2026-03-10
+5104,Nokta 104 (Tekel Bayi),Tekel Bayi,Bağımsız,3,2025-10-29
+5105,Nokta 105 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,4,2026-01-04
+5106,CarrefourSA - Bayi 106,Zincir Market,CarrefourSA,4,2026-03-11
+5107,Nokta 107 (Tekel Bayi),Tekel Bayi,Bağımsız,16,2026-03-11
+5108,Nokta 108 (Tekel Bayi),Tekel Bayi,Bağımsız,11,2026-02-21
+5109,Nokta 109 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,12,2026-03-08
+5110,Metro - Bayi 110,Zincir Market,Metro,5,2026-02-17
+5111,CarrefourSA - Bayi 111,Zincir Market,CarrefourSA,1,2026-01-21
+5112,Nokta 112 (Tekel Bayi),Tekel Bayi,Bağımsız,3,2026-03-07
+5113,Nokta 113 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,5,2026-03-07
+5114,Nokta 114 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,3,2026-03-08
+5115,Nokta 115 (Tekel Bayi),Tekel Bayi,Bağımsız,9,2025-12-05
+5116,Nokta 116 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,11,2026-03-11
+5117,Nokta 117 (Tekel Bayi),Tekel Bayi,Bağımsız,6,2026-03-07
+5118,Nokta 118 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,7,2025-10-29
+5119,Nokta 119 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,3,2025-12-06
+5120,Nokta 120 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,11,2026-03-10
+5121,A101 - Bayi 121,Zincir Market,A101,13,2026-03-08
+5122,Nokta 122 (Horeca (Otel)),Horeca (Otel),Bağımsız,12,2026-03-08
+5123,Nokta 123 (Tekel Bayi),Tekel Bayi,Bağımsız,5,2026-02-22
+5124,Nokta 124 (Horeca (Otel)),Horeca (Otel),Bağımsız,1,2026-03-07
+5125,Macrocenter - Bayi 125,Zincir Market,Macrocenter,8,2026-03-07
+5126,Metro - Bayi 126,Zincir Market,Metro,2,2026-03-09
+5127,Nokta 127 (Tekel Bayi),Tekel Bayi,Bağımsız,6,2026-03-11
+5128,CarrefourSA - Bayi 128,Zincir Market,CarrefourSA,2,2026-03-09
+5129,Nokta 129 (Tekel Bayi),Tekel Bayi,Bağımsız,17,2026-03-10
+5130,Nokta 130 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,16,2026-03-07
+5131,Nokta 131 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,9,2025-11-30
+5132,Nokta 132 (Tekel Bayi),Tekel Bayi,Bağımsız,5,2026-03-10
+5133,Nokta 133 (Tekel Bayi),Tekel Bayi,Bağımsız,9,2026-01-06
+5134,A101 - Bayi 134,Zincir Market,A101,14,2026-03-08
+5135,Nokta 135 (Horeca (Otel)),Horeca (Otel),Bağımsız,10,2025-12-05
+5136,A101 - Bayi 136,Zincir Market,A101,3,2025-10-20
+5137,Nokta 137 (Horeca (Otel)),Horeca (Otel),Bağımsız,7,2026-03-11
+5138,Nokta 138 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,16,2026-03-07
+5139,Nokta 139 (Horeca (Otel)),Horeca (Otel),Bağımsız,15,2026-03-07
+5140,Nokta 140 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,16,2025-11-01
+5141,Nokta 141 (Tekel Bayi),Tekel Bayi,Bağımsız,6,2025-12-27
+5142,Nokta 142 (Horeca (Otel)),Horeca (Otel),Bağımsız,4,2026-03-11
+5143,Nokta 143 (Tekel Bayi),Tekel Bayi,Bağımsız,8,2026-03-10
+5144,Nokta 144 (Horeca (Otel)),Horeca (Otel),Bağımsız,15,2026-02-03
+5145,Nokta 145 (Horeca (Otel)),Horeca (Otel),Bağımsız,6,2026-03-07
+5146,A101 - Bayi 146,Zincir Market,A101,10,2026-03-10
+5147,Macrocenter - Bayi 147,Zincir Market,Macrocenter,5,2025-11-03
+5148,Nokta 148 (Tekel Bayi),Tekel Bayi,Bağımsız,3,2026-03-10
+5149,Nokta 149 (Tekel Bayi),Tekel Bayi,Bağımsız,15,2025-11-01
+5150,Nokta 150 (Meyhane/Restoran),Meyhane/Restoran,Bağımsız,1,2026-03-08
